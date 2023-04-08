@@ -25,4 +25,5 @@ The platform should have a section for farmers to interact and share ideas, fail
 Proper reporting of securities incidents. To declare an evironment pron to violence.<br>
 Then emmergence tracker settings on the app<br>
 Connecting the farmers to security agencies on the app<br>
-Installations of CCTV or Drones on the farm land</p>
+Installations of CCTV or Drones on the farm land<br>
+Supply farmers with neccesary secuirity update about an environment  and also connect farmers to farmland they can rent.</p>
