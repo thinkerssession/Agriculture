@@ -23,4 +23,5 @@ Provide tutorial or Training for farmers to help in more produce.<br>
 Educational Platforms and standards operation of what works and what dosen't.<br>
 The platform should have a section for farmers to interact and share ideas, failures, success and connect them with investors and partnerships.<br>
 Proper reporting of securities incidents. To declare an evironment pron to violence.<br>
-Then emmergence tracker settings on the app</p>
+Then emmergence tracker settings on the app<br>
+Connecting the farmers to security agencies on the app</p>
