@@ -12,8 +12,8 @@ Inadequate of personnel
 Lack of storage facility
 
 
-Tech Solutions
-Platform that connect the farmers + transpoters + storage facility + marketers + markets
+<h2>Tech Solutions </h2>
+<p>Platform that connect the farmers + transpoters + storage facility + marketers + markets</p>
 
 Create a platform that will connect the farmer and a transportion-service to deliver produces Faster from the farm to Market.
 
