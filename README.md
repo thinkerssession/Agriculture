@@ -21,4 +21,6 @@ Create a platform that will connect the farmer and a transportion-service to del
 Also to connnect farmers to the markets for their produces where they will get better prices for the produce.<br>
 Provide tutorial or Training for farmers to help in more produce.<br>
 Educational Platforms and standards operation of what works and what dosen't.<br>
-The platform should have a section for farmers to interact and share ideas, failures, success and connect them with investors and partnerships. </p>
+The platform should have a section for farmers to interact and share ideas, failures, success and connect them with investors and partnerships.<br>
+Proper reporting of securities incidents. To declare an evironment pron to violence.<br>
+Then emmergence tracker settings on the app</p>
