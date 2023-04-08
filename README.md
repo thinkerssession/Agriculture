@@ -4,12 +4,12 @@ What are the problems surrounding Agriculture in Africa?
 How can we use tech to solve Africa's hunger issues in Africa?
 
 <h3>What are the difficulties or Challenges around your Agricultural department or Ministry in your country?</h3>
-Problems with preservations of produces and Transportation from the farm to the Market
-Transportation
-Insecurity
-Lack of proper channel of distribution
-Inadequate of personnel
-Lack of storage facility
+<p>Problems with preservations of produces and Transportation from the farm to the Market<br>
+Transportation<br>
+Insecurity<br>
+Lack of proper channel of distribution<br>
+Inadequate of personnel<br>
+Lack of storage facility</p>
 
 
 <h3>Tech Solutions </h3>
