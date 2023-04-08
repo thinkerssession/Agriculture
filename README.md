@@ -13,12 +13,8 @@ Lack of storage facility</p>
 
 
 <h3>Tech Solutions </h3>
-<p>Platform that connect the farmers + transpoters + storage facility + marketers + markets</p>
-
-Create a platform that will connect the farmer and a transportion-service to deliver produces Faster from the farm to Market.
-
-Also to connnect farmers to the markets for their produces where they will get better prices for the produce.
-
-Provide tutorial or Training for farmers to help in more produce.
-
-Educational Platforms and standards operation of what works and what dosen't
+<p>Platform that connect the farmers + transpoters + storage facility + marketers + markets<br
+Create a platform that will connect the farmer and a transportion-service to deliver produces Faster from the farm to Market.<br>
+Also to connnect farmers to the markets for their produces where they will get better prices for the produce.<br>
+Provide tutorial or Training for farmers to help in more produce.<br>
+Educational Platforms and standards operation of what works and what dosen't</p>
