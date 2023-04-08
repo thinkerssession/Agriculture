@@ -10,7 +10,7 @@ Insecurity<br>
 Lack of proper channel of distribution<br>
 Inadequate of personnel<br>
 Lack of storage facility<br>
-managing farmers and managers tracking farms produce.<br>
+Managing farmers and managers tracking farms produce.<br>
 Lack of proper business structure.</p>
 
 
