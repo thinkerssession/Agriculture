@@ -26,4 +26,5 @@ Proper reporting of securities incidents. To declare an evironment pron to viole
 Then emmergence tracker settings on the app<br>
 Connecting the farmers to security agencies on the app<br>
 Installations of CCTV or Drones on the farm land<br>
-Supply farmers with neccesary secuirity update about an environment  and also connect farmers to farmland they can rent.</p>
+Supply farmers with neccesary secuirity update about an environment  and also connect farmers to farmland they can rent.<br>
+The platform should also provide Remote Farming.</p>
