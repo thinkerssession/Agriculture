@@ -9,7 +9,8 @@ Transportation<br>
 Insecurity<br>
 Lack of proper channel of distribution<br>
 Inadequate of personnel<br>
-Lack of storage facility</p>
+Lack of storage facility<br>
+managing farmers and managers tracking farms produce.</p>
 
 
 <h3>Tech Solutions </h3>
